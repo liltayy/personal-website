@@ -1,0 +1,19 @@
+body{
+    background-color: white;
+}
+.code{
+    font-family: sans-serif;font-size: larger
+}
+#code2{
+    text-align: center
+}
+img{
+    border-radius: 45%
+}
+
+#code2{
+    letter-spacing: 10px;
+}
+.navbar{
+    border: blue 3px solid;
+}
